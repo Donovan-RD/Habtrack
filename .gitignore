@@ -1,5 +1,12 @@
 # Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
 
+# Firebase & Secrets
+src/config/firebase.ts
+.env
+node_modules/
+.expo/
+
+
 # dependencies
 node_modules/
 
